@@ -4,14 +4,14 @@
 <br>
 <img align="right" alt="Frontend" width="400" src="https://cdn.discordapp.com/attachments/951197655021797436/1151147173904404540/pagoda2.png">
 
-- 🌱 I'm strengthening my knowledge in **machine learning**
+- 🌱 I'm strengthening my knowledge in **MERN Stack**
 
 - 👯 I’m looking to collaborate to **open source**
 
-- 🤝 I’m looking for help with **Deep Learning**
+- 🤝 I’m looking for help with **Development**
 
 - 📫 Let's Connect : munagalaraju50@gmail.com
 
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda,flask,html,css,tailwind,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,anaconda,flask,html,css,tailwind,react,node,vscode)](https://skillicons.dev)
